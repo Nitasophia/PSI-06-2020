@@ -9,5 +9,5 @@ Pada bagian ini dituliskan bagaimana melakukan instalasi Aplikasi Pengaduan Masy
 4. Setelah Web Server selesai diinstall, buka XAMPP kemudian tekan tombol start pada modul Apache dan MySQL.
 5. Copy folder file API ke folder C:\xampp\htdocs
 6. Buat database proyek menggunakan MySQL/phpmyadmin dengan cara meng-import database yang tersedia. 
-7. Membuka Android Studio dan melakukan synergi project.
+7. Membuka Android Studio dan melakukan synergi project (dengan memasukkan file Solvee.zipp yang sebelumnya sudah di ekstrak).
 8. Buka device android dan pastikan telah terhubung ke XAMPP kemudian pada android studio klik run dan pilih device yang telah hidup. 
